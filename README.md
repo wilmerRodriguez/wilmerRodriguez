@@ -2,9 +2,7 @@
 
 **wilmerRodriguez/wilmerRodriguez** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-
-
-![canva_img](https://user-images.githubusercontent.com/16322159/175085613-47990185-335c-4849-9d48-bc42ac99ba40.png)
+![canva_img1](https://user-images.githubusercontent.com/16322159/175094817-4bc3a212-483c-4ee2-bd72-2ae5c541a87f.png)
 
 ## Wilmer Rodriguez
 Front End Developer currently self-learning Full Stack development. I enjoy learning new tech and creating content around web development and design.
