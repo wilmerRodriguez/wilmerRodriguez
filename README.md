@@ -25,3 +25,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I live in France with my two dogs 
 -->
+
+## Contact
+https://wilmerrodriguez.github.io/web-cv/
+
+##Content
+
+
+
