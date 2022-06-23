@@ -18,9 +18,9 @@ Front End Developer currently self-learning Full Stack development. I enjoy lear
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on becoming a Front End Developer 
-- 🌱 I’m currently learning ReactJS and Vue, while learning Javascript
+- 🌱 I’m currently learning Everything! 
 - 👯 I’m looking to collaborate on All web development and design
-- 🤔 I’m looking for help with Productivity  
+- 🤔 I’m looking for help with New web technologies 
 - 💬 Ask me about Self-Learning
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I live in France with my two dogs 
@@ -29,7 +29,8 @@ Here are some ideas to get you started:
 ## Contact
 https://wilmerrodriguez.github.io/web-cv/
 
-##Content
+## Content
+
 
 
 
