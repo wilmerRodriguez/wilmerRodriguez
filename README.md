@@ -27,7 +27,7 @@ Here are some ideas to get you started:
 -->
 
 ## Contact
-https://wilmerrodriguez.github.io/web-cv/
+https://wilmerrodriguez.github.io/portfolio2.0/
 
 ## Content
 
