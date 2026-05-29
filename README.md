@@ -1,4 +1,4 @@
-<img width="5760" height="2160" alt="image" src="https://github.com/user-attachments/assets/751480ac-929f-41e9-a313-c346d02bf197" />### Hi there 👋
+### Hi there 👋
 
 **wilmerRodriguez/wilmerRodriguez** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
