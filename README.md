@@ -27,7 +27,7 @@ Here are some ideas to get you started:
 -->
 
 ## Contact
-https://wilmerrodriguez.github.io/landingPage/
+[https://wilmerrodriguez.github.io/cv_landingPage/](https://wilmerrodriguez.github.io/cv_landingPage/)
 
 ## Content
 
